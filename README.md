@@ -1,3 +1,5 @@
+# ORIGINAL BY PREVTER, I AM ONLY UPDATING THIS SO THAT IT WORKS WITH 2.206!!!!!!!!!!
+
 <div align="center">
     <a href="https://github.com/prevter/gdopenhack/releases/latest">
           <img src="https://img.shields.io/github/v/release/prevter/gdopenhack" alt="Release version">
